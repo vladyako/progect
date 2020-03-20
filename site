@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+    <link href="styles/styles.css" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <table>
+    <tr>
+      <th><strong>час по годинах</strong></th>
+      <th>понеділок</th>
+      <th>вівторок</th>
+      <th>середа</th>
+      <th>четверг</th>
+      <th>п'ятниця</th>
+      <th>субота</th>
+      <th>неділя</th>
+    </tr>
+    <tr>
+      <th>8:00</th>
+      <td>підйом</td>
+      <td>підйом</td>
+      <td>підйом</td>
+      <td>підйом</td>
+      <td>підйом</td>
+      <td>підйом</td>
+      <td>підйом</td>
+    </tr>
+    <tr>
+      <th>8:00-8:30</th>
+      <td>застелити ліжко<br> та вмитися</td>
+      <td>застелити ліжко<br> та вмитися</td>
+      <td>застелити ліжко<br> та вмитися</td>
+      <td>застелити ліжко<br> та вмитися</td>
+      <td>застелити ліжко<br> та вмитися</td>
+      <td>застелити ліжко<br> та вмитися</td>
+      <td>застелити ліжко<br> та вмитися</td>
+    </tr>
+    <tr>
+      <th>8:30-8:50</th>
+      <td>сніданок</td>
+      <td>сніданок</td>
+      <td>сніданок</td>
+      <td>сніданок</td>
+      <td>сніданок</td>
+      <td>сніданок</td>
+      <td>сніданок</td>
+    </tr>
+    <tr>
+      <th>9:00-9:45</th>
+      <td>перший урок</td>
+      <td>перший урок</td>
+      <td>перший урок</td> 
+      <td>перший урок</td> 
+      <td>перший урок</td>         
+    </tr>
+    <tr>
+      <th>10:00-10-45</th>
+      <td>другий урок</td>
+      <td>другий урок</td>
+      <td>другий урок</td>
+      <td>другий урок</td>
+      <td>другий урок</td>
+    </tr>
+    <tr>
+      <th>10:55-11:40</th>
+      <td>другий урок</td>
+      <td>другий урок</td>
+      <td>другий урок</td>
+      <td>другий урок</td>
+      <td>другий урок</td>
+    </tr>
+    <tr>
+      <th>11:50-12:35</th>
+      <td>четвертий урок</td>
+      <td>четвертий урок</td>
+      <td>четвертий урок</td>
+      <td>четвертий урок</td>
+      <td>четвертий урок</td>
+    </tr>
+    <tr>
+      <th>12:45-13:30</th>
+      <td>п'ятий урок</td>
+      <td>п'ятий урок</td>
+      <td>п'ятий урок</td>
+      <td>п'ятий урок</td>
+      <td>п'ятий урок</td>
+    </tr>
+    <tr>
+      <th>13:40-14:25</th>
+      <td>шостий урок</td>
+      <td>шостий урок</td>
+      <td>шостий урок</td>
+      <td>шостий урок</td>
+      <td>шостий урок</td>
+    </tr>
+    <tr>
+      <th>14:25-14:50</th>
+      <td>обід</td>
+      <td>обід</td>
+      <td>обід</td>
+      <td>обід</td>
+      <td>обід</td>
+      <td>обід</td>
+      <td>обід</td>
+    </tr>
+    <tr>
+      <th>14:50-15:35</th>
+      <td>сьомий урок</td>
+      <th></th>
+      <td>сьомий урок</td>
+      <td>сьомий урок</td>
+      <td>сьомий урок</td>
+    </tr>
+    <tr>
+      <th>15:40-16:25</th>
+      <td></td>
+      <td></td>
+      <td>восьмий урок</td>
+      <td></td>
+      <td>восьмий урок</td>
+    </tr>
+    <tr>
+      <th>7:00</th>
+      <td>вечеря</td>
+      <td>вечеря</td>
+      <td>вечеря</td>
+      <td>вечеря</td>
+      <td>вечеря</td>
+      <td>вечеря</td>
+      <td>вечеря</td>
+    </tr>
+    <tr>
+      <th>7:50</th>
+      <td>миття</td>
+      <td>миття</td>
+      <td>миття</td>
+      <td>миття</td>
+      <td>миття</td>
+      <td>миття</td>
+      <td>миття</td>
+    </tr>
+    <tr>
+      <th>8:40</th>
+      <td>спати</td>
+      <td>спати</td>
+      <td>спати</td>
+      <td>спати</td>
+      <td>спати</td>
+      <td>спати</td>
+      <td>спати</td>
+    </tr>
+    </table>
+  </body>
+</html>
